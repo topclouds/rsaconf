@@ -1,0 +1,574 @@
+AEP Networks offers secure communications, networking and 
+          application access for government, enterprise and carriers. We work 
+          with systems integrators, managed service providers and the 
+          distribution channel to deliver integrated solutions incorporating 
+          our leading edge products:
+•Enhanced-grade secure voice and multi-service data platforms that 
+          support a wide range of communications protocols and network 
+          topologies
+•High assurance networking via IPSec-based VPN encryptors for 
+          site-to-site security and remote access
+•Hardware Security Modules (HSM) for cryptographic key management 
+          and storage
+•Secure remote access to networks and applications – including 
+          virtual environments – via application-layer security gateways and 
+          SSL VPNs.
+AMAX provides Turnkey Appliance Manufacturing solutions, from design 
+          prototyping, such as customized chassis and system hardware designs, 
+          to full-volume manufacturing, quality assurances, global logistics, 
+          and worldwide support.
+AMAX adheres to a strict, ISO 9001 certified, 5-Stage Manufacturing 
+          Process, including component testing, system assembly, high 
+          temperature burn-in stress testing, system functionality testing, 
+          software image loading, and final quality inspections.
+In terms of manufacturing and revision control: AMAX redefines 
+          built-to-order Manufacturing, with its exclusive Manufacturing 
+          Process Instructions (MPI) and ERP system to manage all aspects of 
+          Production Manufacturing and Inventory control.
+AppRiver, a SaaS security provider, protects companies from 
+          multi-vector blended threats by thoroughly securing every connection 
+          to the Internet. It does so by offering a fully integrated suite of 
+          secure hosting services, including Anti-Virus/Anti-Spam Protection, 
+          Microsoft® Exchange Hosting, Web Filtering, Encrypted Mail, Email 
+          Archiving, and Mobile Messaging solutions. With AppRiver, any 
+          business is granted access to enterprise-grade applications in 
+          highly available datacenters for a fixed cost per month, which is 
+          usually a fraction of the traditional in-house IT costs. The ability 
+          to adopt on-demand services on a pay-as-you-go basis gives each 
+          AppRiver customer greater cost-controls and flexibility.
+Arcot authentication and digital signing solutions make online 
+          access safe for millions of business, consumer, and ecommerce users. 
+          With Arcot solutions, organizations can automatically and 
+          transparently deploy stronger authentication and fraud detection 
+          without changing user behavior or deploying expensive hardware. 
+          Arcot best-in-class authentication provides protection from internet 
+          threats and bridges the gap between cost, convenience, and strength. 
+          Arcot fraud prevention, strong authentication, and e-Document 
+          security solutions are delivered on-premise or on-demand as an Arcot 
+          hosted service. Arcot solutions comply with U.S. and international 
+          security standards including 3-D Secure, CardSpace, FFIEC, OpenID, 
+          SAFE, and SAML.
+Burton Group provides in-depth, IT research and advisory services to 
+          executives and technologists at Global 2000 organizations. Focused 
+          on strategic business technologies and the unique needs of 
+          enterprise organizations, Burton Group provides clients company-wide 
+          access to its world-renowned analysts and a suite of powerful, 
+          intuitive research and decision support tools unmatched in the 
+          industry.
+Since 1990, we have supported global enterprises with our in-depth 
+          and independent knowledge, research, analysis, methodologies and 
+          best practices. The majority of our clients are Fortune 500 and 
+          Global 2000 end-user organizations. These enterprise organizations 
+          value our vendor-independent stance and technical architecture 
+          focus, which enable technologists to make intelligent IT decisions.
+Camouflage Software Inc., aids organizations in meeting their data 
+          privacy and security needs. The flagship product, Camouflage®, is an 
+          enterprise-wide data masking software solution designed to protect 
+          personal and sensitive information while facilitating compliance 
+          with privacy legislation.
+Camouflage masks copies of production databases, creating realistic 
+          and fully functional de-identified data. The company provides high 
+          quality data for software development and implementation testing, 
+          user training, data mining, and research. The software also enables 
+          safer cross-border data sharing and reduces the risk associated with 
+          some outsourcing opportunities.
+By ensuring that sensitive data is only available to those who need 
+          it, Camouflage provides the critical security that clients, 
+          employees, and suppliers need.
+Cloakware, an Irdeto company and part of the Naspers group, provides 
+          innovative, secure, proven software technology solutions that enable 
+          customers to protect business and digital assets in enterprise and 
+          government markets. Cloakware Datacenter Solutions help 
+          organizations meet governance, risk management and compliance (GRC) 
+          objectives for privileged password management while ensuring 
+          business continuity and the security of mission-critical data and IT 
+          infrastructure. Protecting more than one billion deployed 
+          applications, Cloakware is the security cornerstone of many of the 
+          world's largest, most recognizable and technologically advanced 
+          companies. www.cloakware.com. Visit us at RSA in booth #2545.
+With its dedicated team of R&D engineers, Comodo designs and 
+          develops next-generation Internet security solutions. Comodo 
+          collaborates with industry leaders such as IBM, HP, Microsoft and 
+          Intel to implement a vision of security through invention and 
+          innovation. Core development areas include Certificate Services, 
+          software development and design, and cryptographic research and 
+          analysis.
+Critical Watch is a leading provider of patented security risk 
+          management and compliance solutions that enable a comprehensive 
+          business process for integrating vulnerability management and 
+          security configuration policy compliance across the enterprise. In 
+          addition to its FusionVM suite of appliance-based and 
+          Software-as-a-Service (SaaS)-based solutions, Critical Watch 
+          provides PCI Compliance services as an Approved Scanning Vendor. 
+          Headquartered in Dallas, Texas, Critical Watch has been deployed 
+          across the U.S. and internationally through verticals such as 
+          healthcare, energy, ecommerce, IT outsourcing and financial 
+          services. Critical Watch has grown profitably since 2001 and is 
+          recognized as an industry leader.
+Cryptography Research, Inc. specializes in solving complex data 
+          security problems. In addition to security evaluation and applied 
+          engineering work, CRI is actively involved in long-term research and 
+          technology licensing in areas including tamper resistance, content 
+          protection, network security and financial services.
+DeviceLock develops software that protects against data leakage and 
+          device-delivered malware. Its endpoint port/device control solution 
+          prevents unauthorized data transfers to or from uncontrolled 
+          removable or wireless media. DeviceLock features Windows Group 
+          Policy MMC integration, exceptional depth and breadth of security 
+          features, low-to-zero infrastructure impact and low cost of 
+          ownership.
+DeviceLock has over 55,000 customers and is installed on millions of 
+          computers worldwide. The company’s vast range of corporate customers 
+          includes financial institutions, state and federal government 
+          agencies, classified military networks, and educational 
+          institutions. Organizations that need to control Plug-n-Play devices 
+          and wide open Windows ports have looked to DeviceLock since 1996.
+The Dot Net Factory’s EmpowerID™ 2009 is an Identity Management 
+          platform built on Windows Workflow Foundation™. It features quick to 
+          deploy Role Enforcer modules with workflows and web-based interfaces 
+          for: multi-directory user provisioning, including support for HR, 
+          ERP and custom applications; password self-service reset; group 
+          management; Active Directory reporting; corporate white pages; and 
+          provisioning and security for Exchange and SharePoint. EmpowerID 
+          2009 ships with hundreds of pre-built workflows and is proven in 
+          large multi-site installations throughout the world. Intuitive and 
+          customizable Silverlight interfaces speed user adoption. EmpowerID 
+          2009 deploys quickly, cuts costs, and grows easily to accommodate 
+          future needs.
+eEye’s Integrated Security & Threat Management software, appliances 
+          and security services protect 9,000+ organizations. Blink, Retina, 
+          Preview, Iris and SecureIIS detect vulnerabilities and threats, 
+          prevent intrusions, protect key computing resources, including 
+          endpoints, network assets, websites and web applications, providing 
+          a centralized point of security management and network visibility.
+Finjan, Inc. is a leader in secure web gateway products and the 
+          provider of a unified web security solution for the enterprise 
+          market. Crimeware, malware and data leakage are proactively 
+          prevented via patented active real-time content inspection 
+          technologies and optional anti-virus modules. By integrating several 
+          security engines in a single dedicated appliance, Finjan’s 
+          comprehensive and integrated web security solution enables quick 
+          deployment, simplified management and reduction of costs. With 
+          Finjan’s award-winning and widely used solutions, businesses can 
+          focus on implementing web strategies to realize their full 
+          organizational and commercial potential. For more information about 
+          Finjan, please visit: www.finjan.com.
+ForeScout is the leading provider of network access control (NAC) 
+          and policy compliance management for the largest enterprise and 
+          government agencies worldwide. We introduced our flagship CounterACT 
+          family of products in 2005, helping to pioneer and evolve the NAC 
+          industry. Our technology was developed in close partnership with our 
+          customers, and is differentiated by its ability to simplify the 
+          arduous tasks of access control and policy management. Today, 
+          CounterACT is trusted and proven in over 500 Fortune 1000 
+          enterprises and government/military agencies worldwide, where it 
+          serves to enforce security-policy compliance and enable streamlined 
+          business processes.
+Fortify Software's Software Security Assurance solutions protect 
+          companies and organizations from today's greatest security risk: the 
+          software that runs their businesses. Fortify 360 from Fortify, is 
+          the industry-leading integrated suite for identification, 
+          remediation and prevention of vulnerabilities in software. It 
+          detects over 380 types of vulnerabilities in 17 different 
+          development languages.
+Gigamon is the inventor and leading provider of Data-Access 
+          Switches. Its flagship product, GigaVUE®, can replicate packets from 
+          one span or tap to many tools to solve the span port sharing 
+          problem. It also can aggregate and intelligently filter packets from 
+          many spans or taps to one or multiple tools to solve the problem of 
+          monitoring flows across complex mesh topologies and virtual 
+          networks. GigaVUE® facilitates unobtrusive parallel tool deployment 
+          with network-wide coverage, significantly reducing customers’ 
+          capital budgets and yielding immediate ROI benefits. CitrusTM 
+          Gigamon’s new browser based GUI will be on display at RSA.
+Guardium, the database security company, delivers the most 
+          widely-used solution for ensuring the integrity of enterprise data 
+          and preventing information leaks from the data center.
+Guardium will be showing its latest technology for real-time 
+          monitoring of privileged users; identifying application-layer fraud 
+          (SAP, PeopleSoft, etc.); preventing attacks such as SQL injection; 
+          discovering sensitive data; identifying database vulnerabilities; 
+          and automating compliance processes (sign-offs, etc.). Guardium’s 
+          scalable multi-tier platform allows organizations to reduce costs 
+          using automated and centralized policies for heterogeneous database 
+          infrastructures.
+RSA highlights: S-GATE, the only cross-DBMS solution for blocking 
+          DBA access to sensitive data; new IBM platform and application 
+          support.
+ISE is a truly independent software security evaluation, education, 
+          and design company dedicated to providing unbiased and 
+          scientifically motivated approaches to improve security. We address 
+          the need for increased technical security at all levels of an 
+          organization. We leverage academic theory and real world experience 
+          to: evaluate existing software, hardware, and network security 
+          infrastructure; provide specialized education and training; design 
+          and build innovative security solutions. Our clients include 
+          multinational banks, Fortune 500 corporations, cellular phone and 
+          semiconductor manufacturers, venture capitalists, healthcare 
+          providers, e-commerce vendors, the US government, software security 
+          companies and start-ups.
+With over 80% of security breaches attributed to human error, no 
+          amount of hardware or software can compare to individual expertise. 
+          This is why a group of associations joined forces in 1989 as (ISC)2® 
+          – a global not-for-profit entity known for world-class education and 
+          superior credentials. Their goal? To create a unified standard for 
+          the practice of information security.
+(ISC)2 provides vendor-neutral products, services and credentials 
+            throughout more than 135 countries. The (ISC)2 CBK® defines global 
+            standards that allow professionals worldwide to discuss, debate 
+            and resolve matters pertaining to the field. (ISC)2 certifications 
+            are universally recognized as the Gold Standard. And the (ISC)2 
+            Code of Ethics safeguards the integrity of members and the 
+            professionalism of the industry.
+
+Lieberman Software reduces internal and external security threats by 
+          providing local security management for large cross-platform 
+          enterprises. The company’s privileged account password management 
+          and configuration management products collectively control and 
+          report on all groups, users, passwords, registries, policies, 
+          objects, rights, and services dispersed throughout the servers, 
+          workstations, mainframes, databases, and devices in the network. By 
+          automating time-intensive systems management tasks often ignored due 
+          to cost and complexity, Lieberman Software increases oversight 
+          control of the IT infrastructure, subsequently reducing security 
+          vulnerabilities, improving productivity, minimizing system failures, 
+          and ensuring regulatory compliance. The company has developed 
+          solutions for the enterprise since 1994.
+LogLogic® (www.loglogic.com) is the leader in log management, 
+          compliance management and security management solutions designed to 
+          improve accountability and lower costs for organizations of all 
+          sizes. LogLogic's unique open log management platform enables 
+          customers to collect, search and store 100 percent of IT log data 
+          for a comprehensive fingerprint of past and current activity across 
+          any organization. Powered by the industry’s leading open log 
+          management platform, LogLogic's business applications correlate user 
+          activities and event data in real-time for a unique integrated 
+          approach to security event management, database security management 
+          and compliance management with industry and government regulations.
+McAfee is the world’s largest dedicated security technology company. 
+          McAfee relentlessly tackles the world’s toughest security 
+          challenges. With nearly 350 patents, our award-winning research team 
+          and engineers develop solutions that make businesses more powerful 
+          to protect their systems, networks, and data, while also helping 
+          them optimize complex risk and compliance issues. At home, we help 
+          consumers secure everyaspect of their digital life—PC, mobile phone, 
+          and internet—with solutions that auto-update and are easy to install 
+          and use.
+MessageLabs, now part of Symantec, provides leading messaging and 
+          web security services to businesses worldwide. Delivered across a 
+          globally distributed platform at the Internet level, our full range 
+          of SaaS security services ensures the integrity of electronic 
+          communications, allowing clients to manage and reduce risk while 
+          securing their critical infrastructure and information. With 14 data 
+          centers on four continents, processing billions of messages and web 
+          requests every day, the MessageLabs services provide clients with 
+          reassurance and security at a low, predictable cost.
+Modulo is a market leader for IT Governance, Risk and Compliance 
+          management. With a highly experienced and up-to-date fully certified 
+          staff, Modulo has conducted more than 5,000 IT GRC projects, many of 
+          which still considered innovative worldwide.
+Modulo’s continuous concern with excellence and quality standards 
+          has resulted in two important achievements; first, it became the 
+          pioneer Information Security company to obtain the ISO 27001 – the 
+          International Information Security Management standard. It also 
+          received certification for the ISO 9001 quality standard, and has 
+          been recertified since 1998.
+Modulo’s recent honours include: Hot Company 2009, Global Excellence 
+          Customer Trust Award 2008 (Excellence in Auditing) and 2009 
+          (Excellence in Security Audit), and The Network Products Guide 2008 
+          Product Innovation Award, important recognition that validates 
+          Modulo’s commitment.
+Motorola AirDefense is the market leader in anywhere, anytime 
+          wireless security. Motorola AirDefense security products provide the 
+          most advanced solutions for rogue wireless detection, advanced 
+          troubleshooting, policy enforcement and intrusion prevention, both 
+          inside and outside an organization's physical locations and wired 
+          networks. Common Criteria-certified, Motorola AirDefense 
+          enterprise-class products scale to support single offices as well as 
+          organizations with hundreds of locations around the globe. Founded 
+          in 2001 and acquired by Motorola in 2008, the company serves over 
+          700 blue chip corporations and government agencies while still 
+          remaining vendor agnostic to work in tandem with existing WLAN 
+          products in the market today.
+Netronome is a leading developer of highly programmable 
+            semiconductors for intelligent flow processing in network and 
+            communications equipment. Netronome’s solutions include network 
+            flow processors and acceleration cards scaling to more than 
+            20Gbps. They are used in carrierÿgrade and enterprise class 
+            communications products that require deep packet inspection, flow 
+            analysis, content processing, virtualization and security. 
+            Netronome’s Network Flow Processors deliver high-performance 
+            packet processing with intelligence, security and virtualization. 
+            They are powered by 40 programmable networking cores delivering 
+            over 1500 instructions and 50 flow operations per packet at 30 
+            million pps, enabling 20Gbps of L2-L7 processing with line-rate 
+            security and I/O virtualization for millions of flows.
+Ohanae® has redefined the ultimate solution for securing user online 
+          experience and the security of personal information. State of the 
+          art privacy safeguards, coupled with vigilant identify theft 
+          prevention; combine to effectively block the misuse of confidential 
+          data. Securworkplace™ generates strong password on-the-fly, 
+          intercept and neutralize phishing and key logging attacks, encrypt 
+          the working sessions, then employ an endpoint sanitization system to 
+          rigorously monitor user interactions and to protect the operating 
+          environment. The system deletes all session footprints after the 
+          session is ended. Files saved during the session in the designated 
+          volume are encrypted and hidden to prevent unauthorized access.
+Founded in 2002, OPSWAT (www.opswat.com) provides software engineers 
+          and IT pros with software development tools and data services to 
+          power manageability and security solutions. The company OPSWAT, Inc. 
+          also founded OESISOK™, an open industry-wide certification program 
+          that verifies the interoperability of endpoint security applications 
+          with products from market-leading technology vendors. The free “Am I 
+          OESISOK?” Utility hosted on www.oesisok.com enables end users to 
+          assess the interoperability and quality level of their endpoint 
+          applications.
+Patrick Townsend Security Solutions specializes in key management, 
+          data encryption, and secure communications. Enterprises around the 
+          globe rely on us to keep their sensitive data safe for data at rest 
+          and in motion. As these industries and their security needs evolve – 
+          whether in response to new technologies, hackers, or government 
+          regulations – we continue to develop solutions that meet their data 
+          security requirements.
+PKWARE, Inc., a market and technology leader providing data-centric, 
+          cross-platform security solutions, is the creator and continuing 
+          innovator of the ZIP standard. PKWARE’s SecureZIP family of products 
+          are used by over 30,000 distinct corporate entities to ensure the 
+          security and portability of data internally, as well as with 
+          partners, across all major platforms. Hundreds of global 
+          organizations in financial services, banking, retail, healthcare, 
+          government, and manufacturing use PKWARE services daily. PKWARE 
+          products provide unmatched scalability, making them the most 
+          cost-effective means of securing data and complying with industry 
+          regulations. PKWARE, a privately held company, is based in 
+          Milwaukee, WI with additional offices in New York and the United 
+          Kingdom.
+PreEmptive Solutions provides application security, monitoring and 
+          lifecycle management solutions for .NET and Java. Our security 
+          solutions and cloud services harden applications, inject runtime 
+          defenses, automate application portfolio management policies, and 
+          provide near real-time application monitoring services.
+At RSA 2009, we announce the immediate availability of DashO V5 – 
+          extending many of these services to the Java platform for the very 
+          first time.
+With over 3,000 clients and software on over 6,000,000 desktops, 
+          PreEmptive Solutions is recognized as one of today's most trusted 
+          and widely deployed application security and management solution 
+          providers. For more information, visit booth 856 or email 
+          solutions@preemptive.com.
+Get to One - One identity. The Quest One Identity Solution 
+          simplifies identity and access management by reducing the number of 
+          identities, automating identity administration, ensuring the 
+          security of identities, and basing identity management on existing 
+          investments. Quest One improves efficiency, enhances security and 
+          ensures compliance throughout your heterogeneous infrastructure.
+Rapid7 is a leader in vulnerability management and compliance, 
+          delivering a single, unified solution across an organization’s 
+          entire infrastructure. Rapid7 NeXpose is the only solution that 
+          provides in-depth coverage of vital Web and database systems and is 
+          relied upon by organizations including Black & Decker, Florida State 
+          University, the New York Times, and the City of Philadelphia. Visit 
+          Rapid7 in booth #356 to learn more about the Company, discuss how to 
+          mitigate risk and remain compliant, and see firsthand how NeXpose 
+          can scan Web applications, databases, operating systems and network 
+          devices all in a single system. For more information, visit 
+          www.rapid7.com.
+Red Condor is revolutionizing spam fighting with award-winning 
+          technology. The company's accurate email filter, true hybrid 
+          architecture Vx Technology(tm), and fully managed appliances lead to 
+          a dramatic reduction in the total cost of owning a premium spam 
+          filter. With solutions for small and medium-sized business and ISPs 
+          with millions of email inboxes, Red Condor offers cost-effective, 
+          time-saving solutions that are rapidly gaining market share. Red 
+          Condor's proprietary system has built-in zero tolerance for lost 
+          email and a near zero false-positive rate while achieving long-term 
+          spam block rates greater than 99%. For more information, visit 
+          www.redcondor.com.
+RedSeal Systems is the leading provider of security analytics 
+          solutions-decision support systems for optimizing defensive posture 
+          ahead of the next attack. RedSeal discovers and analyzes 
+          network-wide access and exposure to deliver an in-depth 
+          understanding of overall security posture, actionable steps for risk 
+          remediation and metrics to demonstrate progress. By bridging 
+          organizational silos and evaluating the entire computing 
+          infrastructure, RedSeal enables enterprises to effectively secure 
+          critical business assets, maintain regulatory compliance and gain 
+          the greatest benefit from existing security spending. More 
+          information can be found at www.redseal.net.
+Safend is a leading provider of endpoint data protection solutions 
+          that guards against corporate data loss by offering comprehensive 
+          solutions for data encryption and port and device control. The 
+          Safend Data Protection Suite encrypts internal and external hard 
+          drives, removable storage and CD/DVDs and provides granular port and 
+          device control over all physical, wireless and removable media 
+          devices. Safend ensures compliance with HIPAA, PCI, SOX, BASEL II 
+          and other regulatory data security and privacy standards. Safend 
+          solutions are deployed by multinational enterprises, government 
+          agencies and small to mid-size companies across the globe.
+With over 2,000 clients, SecureWorks is one of the market's leading 
+          Security as a Service providers. Organizations are protected from 
+          external and internal cyber-threats through SecureWorks' On-Demand 
+          Security Information and Event Management (SIEM) platform, the 
+          SecureWorks Counter Threat UnitSM and three fully synchronous 
+          Security Operations Centers (SOCs) staffed with SANS GIAC certified 
+          analysts working 24x7 to safeguard client systems. SecureWorks has 
+          won SC Magazine's "Best Managed Security Service" award for 2006, 
+          2007 & 2008 and has been named to the Inc. 500, Inc. 5000 and 
+          Deloitte lists of fastest-growing companies. www.secureworks.com.
+Security Mentor provides web-based security awareness training. 
+          Security Mentor's innovative training is designed for how people 
+          learn and work. Engaging, interactive, rich media lessons are brief, 
+          frequent, and focused. Eight-minute lessons fit busy schedules. 
+          Weekly training keeps security top of mind. Single topic lessons are 
+          easy to learn. Register to see a demo at www.securitymentor.com
+Shavlik Technologies simplifies and automates critical to manage IT 
+          operations, enabling organizations to reduce their spend -- less 
+          time, less money, less IT staff -- on necessary functions including 
+          system discovery, application control, patch management, and 
+          configuration management. Shavlik's easy-to-implement solution means 
+          that in a matter of hours, not weeks or months, you'll be ready to 
+          identify gaps and automatically and reliably fix systems that are 
+          missing patches or don't conform with the corporate-defined 
+          configuration baseline. Shavlik’s unique approach to simplifying and 
+          automating management of the platform frees up IT staff for 
+          initiatives that grow your business.
+Sophos enables enterprises all over the world to secure and control 
+          their IT infrastructure. Sophos's network access control, endpoint, 
+          web and email solutions simplify security to provide integrated 
+          defenses against malware, spyware, intrusions, unwanted 
+          applications, spam, policy abuse, data leakage and compliance drift. 
+          With over 20 years of experience, Sophos protects over 100 million 
+          users in nearly 150 countries with its reliably engineered security 
+          solutions and services. Recognized for its high level of customer 
+          satisfaction and powerful yet easy-to-use solutions, Sophos has 
+          received many industry awards, as well as positive reviews and 
+          certifications.
+Splunk is the IT Search company radically changing the way 
+          organizations manage IT infrastructures. Only Splunk enables you to 
+          search, analyze, monitor and report on data from any application, 
+          server or network device in real time to troubleshoot application 
+          outages, investigate security incidents, meet compliance 
+          requirements, and more, in minutes instead of hours or days. Over 
+          900 enterprises, government organizations and service providers, and 
+          more than 300,000 users, use Splunk to achieve higher availability, 
+          investigate security incidents, and realize new levels of IT 
+          operational efficiency. Download your own free copy of Splunk today 
+          at http://www.splunk.com.
+ST Electronics (Info-Security), is a leading info-security company 
+          offering digital watermarking solutions, hardware-based disk 
+          encryption solutions, USB authentication tokens for access control, 
+          and hardware encryption devices for securing phone, fax and IP 
+          networks.
+We adopt a technology-centric and an innovation-centric culture in 
+          developing the DigiSAFE brand of products and promise to meet the 
+          infocomm security needs of the day.
+Stonesoft delivers proven, innovative solutions that simplify 
+          network security management for complex network environments. The 
+          award-winning StoneGate Platform unifies firewall, VPN, IPS and SSL 
+          VPN solutions, blending integrated threat management, end-to-end 
+          high availability and network optimization, into a centrally 
+          controlled system. As a result, Stonesoft provides an unparalleled 
+          level of proactive security, always-on connectivity and compliance 
+          at the lowest total cost of ownership on the market today. 
+          Introduced at RSA 2009, Stonesoft’s StoneGate 5.0, the first network 
+          security platform to manage physical and virtual environments as 
+          well as third-party device events. Demos available at booth 2108.
+SyferLock Technology delivers a family of patented products which 
+          offer a paradigm shifting approach to next generation One Time 
+          Passwords (OTPs) for access to computers, networks and the internet. 
+          SyferLock’s enhanced authentication methodology and system provides 
+          device-less OTPs, allowing a simple, more secure way to access 
+          information while leveraging existing passwords. Static passwords 
+          are used in almost all authentications, and although other factors 
+          are added, the weak first factor has been left “as is”. SyferLock 
+          fixes the weak link without the need of any additional hardware or 
+          client-side software - allowing the same security no matter where 
+          users log in.
+Syphan Technologies is a specialist developer of carrier grade, 
+          Integrated Threat Control technology enabling service providers to 
+          deliver scalable and cost effective security solutions in the cloud. 
+          Built on an innovative FPGA-technology platform, Syphan offers the 
+          first true 10G total packet-inspection engine covering IDS/IPS, 
+          content filtering, distributed denial of service, data leakage and 
+          complex multi-staged stealth attacks without latency. With a 
+          benchmark 40 Gb/s aggregate wire-speed throughput per device backed 
+          by integrated clustering support, Syphan provides the platform for a 
+          new breed of innovative Security-as a-Service applications and 
+          high-preformance enterprise network protection.
+Tenable has pioneered and continues to innovate a unique Unified 
+          Security Monitoring approach that is revolutionizing the way 
+          enterprises are monitoring (i.e. gathering, evaluating, 
+          communicating, and reporting) security and compliance information. 
+          Tenable Network Security is the pioneer and leader of Unified 
+          Security Monitoring.
+Tenable Network Security provides a suite of solutions that unify 
+          real-time vulnerability, event and compliance monitoring into a 
+          single, role-based, interface for administrators, auditors and risk 
+          managers to evaluate, communicate and report needed information for 
+          effective decision making and systems management.
+Trend Micro, a global leader in Internet content security, focuses 
+          on securing the exchange of digital information for businesses and 
+          consumers. A pioneer and industry vanguard, Trend Micro is advancing 
+          integrated threat management technology to protect operational 
+          continuity, personal information, and property from malware, spam, 
+          data leaks and the newest Web threats. Its flexible solutions, 
+          available in multiple form factors, are supported 24/7 by threat 
+          intelligence experts around the globe. A transnational company, with 
+          headquarters in Tokyo, Trend Micro's trusted security solutions are 
+          sold through its business partners worldwide. For additional 
+          information, please visit www.trendmicro.com
+Unisys is a worldwide information technology company that 
+          specializes in helping commercial organizations and government 
+          agencies secure their operations, increase the efficiency and 
+          utilization of their data centers and modernize their enterprise 
+          applications. Unisys security solutions enable clients to measurably 
+          improve their security position by creating the visibility needed to 
+          make security an integral part of business operations. Unisys helps 
+          clients identify key threats and business risks and define risk 
+          management priorities, articulate links between business goals and 
+          security activities, and identify the process, technology and 
+          competency components that fit their business networks and systems. 
+          For more information, visit www.unisys.com.
+V.i. Labs is the first company to offer Anti-Piracy and Software 
+          Protection solutions that enable companies to recover revenue and 
+          protect their software intellectual property by detecting, reporting 
+          and preventing the misuse of their applications. Its patented 
+          CodeArmor® platform allows software vendors and enterprise 
+          organizations to harden their applications against theft and 
+          tampering, and to gain business intelligence on the unlicensed use 
+          of their software to uncover new revenue streams. V.i. Labs is 
+          headquartered in Waltham, Mass.
+Xceedium is the premier provider of solutions that reduce the 
+          complexity and cost of controlling and tracking high-risk users. 
+          Employing unique and patent-pending technologies, the Xceedium 
+          GateKeeper™ delivers restrictive access, compartmentalization, 
+          containment of users to authorized areas, monitoring, tracking, 
+          recording and comprehensive reporting to meet compliance 
+          requirements. Companies gain the ability to securely administer 
+          remote infrastructure, control vendor access, automate compliance 
+          and manage outsourcing risk.
+Xceedium GateKeeper is deployed in the largest enterprise and 
+          government environments, including healthcare, pharmaceutical, 
+          financial services, retail and MSPs. Xceedium has recently earned 
+          recognition by Forrester as a “Hot Company to Watch”, by Gartner as 
+          a “Cool Vendor in Infrastructure Protection 2009”, and by Red 
+          Herring as a “Top 100 Global Company."
+Zecurion is an award-winning, global enterprise security company 
+          that fights insider threats at multiple levels by protecting storage 
+          media devices, email and peripherals. With over 5,000 deployments 
+          worldwide, Zecurion enables IT departments to protect their systems 
+          before any such theft occurs by creating a "locked vault" - 
+          preventing employees from stealing valuable intellectual property, 
+          confidential and proprietary information, or business intelligence. 
+          Zecurion allows IT departments to take a holistic view of enterprise 
+          security while delivering much needed tools and resources required 
+          to secure business-critical data where it is most vulnerable, inside 
+          the network. Product line includes Zserver Suite, Zlock and Zgate.
+Zscaler services enable any end user, from any place, using any 
+          device a rich Internet experience while enforcing security and 
+          business policy. We deliver this service using our Global Cloud 
+          Infrastructure. Rather than buying appliances, we have a new 
+          on-demand business model, whereby customers pay a subscription fee. 
+          Our cloud service is built upon ground-breaking, high-performance 
+          technology that eliminates latency. Zscaler reduces risk, lowers 
+          cost, improves resource utilization and simplifies IT administration.

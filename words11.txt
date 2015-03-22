@@ -1,0 +1,358 @@
+APCON, Inc. is globally recognized as the leading provider of packet 
+          aggregation switching solutions. APCON's combined switching, 
+          aggregation and filtering technology makes it possible to reduce 
+          monitoring equipment investments by an average of 50 percent per 
+          data center while still guaranteeing customers they will have 100 
+          percent network visibility 24x7x365.
+Organizations in over 40 countries currently depend on APCON 
+          solutions in their network infrastructures.
+•Centralize network monitoring for multiple data centers
+Since its inception in 2001, BitDefender® has continued to raise the 
+          bar to set new standards in proactive threat prevention with 
+          hundreds of millions of users deploying the technology to detect and 
+          remediate malware. BitDefender provides solutions using the same 
+          award winning technology for consumers and for corporate networks 
+          from the small business right through to the global enterprise, 
+          protecting all endpoints. The OEM team continues to forge new 
+          partner relationships with some of the most recognized names in the 
+          industry providing a strong platform that is easy to use and 
+          flexible to integrate for discriminating partners.
+Coverity is the trusted standard for companies that have a 
+          zero-tolerance policy for software failures. More than 1,000 
+          Coverity customers use Coverity's award winning portfolio of testing 
+          products to test their code to discover and eliminate software 
+          defects in their products.
+Critical Watch is a leading provider of patented security risk 
+          management and compliance solutions that enable a comprehensive 
+          business process for integrating vulnerability management and 
+          security configuration policy compliance across the enterprise. In 
+          addition to its FusionVM suite of appliance-based and 
+          Software-as-a-Service (SaaS)-based solutions, Critical Watch 
+          provides PCI Compliance services as an Approved Scanning Vendor. 
+          Headquartered in Dallas, Texas, Critical Watch has been deployed 
+          across the U.S. and internationally through verticals such as 
+          healthcare, energy, ecommerce, IT outsourcing and financial 
+          services. Critical Watch has grown profitably since 2001 and is 
+          recognized as an industry leader.
+Since its inception in 1996 as SmartLine, DeviceLock, Inc. has been 
+          providing endpoint device control and data leak prevention software 
+          solutions to businesses of all sizes and industries. Protecting more 
+          than 4 million computers in more than 60,000 organizations 
+          worldwide, DeviceLock has a vast range of corporate customers 
+          including financial institutions, state and federal government 
+          agencies, classified military networks, healthcare providers, 
+          telecommunications companies, and educational institutions. 
+          DeviceLock, Inc. is an international organization with offices in 
+          San Ramon (California, US), London (UK), Ratingen (Germany), Moscow 
+          (Russia) and Milan (Italy).
+Exar Corporation, a leader in hardware-accelerated encryption, will 
+          showcase its latest data security solutions for Critical 
+          Infrastructure, Cloud Computing, and other performance sensitive 
+          applications. Exar’s data security cards and processors accelerate 
+          the latest encryption standards, including the Suite B algorithms 
+          promoted by the NSA for use in critical infrastructure deployments.
+FoxT protects corporate information and privileged accounts with an 
+          award-winning enterprise access management solution that centrally 
+          enforces granular access entitlements, in real-time, across 
+          operating systems and business applications on any networked device. 
+          The ability to proactively administer, authenticate, authorize, and 
+          produce consolidated audit reports across diverse platforms, down to 
+          the file and device level, enables organizations to greatly reduce 
+          compliance and audit costs, streamline IT security administration, 
+          and protect corporate value by mitigating the risk of insider fraud. 
+          FoxT solutions are being utilized by Global 1000 customers in 32 
+          countries including 5 of the top 10 banks.
+G Data Software, founded in 1985, is the world’s first antivirus 
+            provider, with offices and distribution in more than 80 countries. 
+            The company provides enterprise and consumer security solutions, 
+            including antivirus, anti-spyware, anti-phishing, and firewall 
+            software. G Data Software also runs a world-class malware research 
+            lab, Security Labs, which analyzes threats globally, partnering 
+            with organizations, governments and nonprofits to fulfill a 
+            variety of needs. In 2010, the company established operations in 
+            North America, located in the heart of Research Triangle Park, 
+            North Carolina. For more information on G Data Software, its 
+            products, or Security Labs, visit www.gdata-software.com
+LeakWall from GentleSecurity: innovative content-aware endpoint DLP 
+          system. LeakWall enforces content-centric policies regarding 
+          processing, use, transit and storage of classified data, protecting 
+          from theft and accidental leakage. Contents get classified through 
+          deep data inspection, identifying partial and modified content. 
+          Policies allow audit and control content transmission, access and 
+          modification. LeakWall prevents malicious leaks by insiders, malware 
+          or intruders covert channels. Encryption, device and web holistic 
+          access controls add value beyond pure DLP.
+Easy to deploy and employ, due to its advanced classification method 
+          and integration with Microsoft Group Policy, Leakwall also provides 
+          dynamic profiling and discovery features.
+GoldKey Security Corporation specializes in providing advanced 
+          security solutions to government, financial institutions, and other 
+          organizations with mission critical data to protect. GoldKey is an 
+          integrated security solution. It incorporates twelve security 
+          strategies into a single device making it the most comprehensive 
+          solution on the market. At the RSA Conference, GoldKey Security 
+          Corporation will launch the first private cloud storage and online 
+          authentication security appliance to rely solely on hardware tokens 
+          for key management. This combination will be a new standard for 
+          enterprises that want to protect and maintain control of their data 
+          both in and out of the cloud.
+High Density Devices (HDD) safeguards your data by patented, 
+          verified and certified Full Disk Encryption products for plug & play 
+          installations in USB, HDD and SSD based configurations, in addition 
+          to the exclusive Crypto Adapter for protection of all USB storage 
+          media! HDD provides solutions for defence, corporate and mass market 
+          encryption purposes by offering hardware encryption – incorporating 
+          the patented [hiddn]™ Crypto Module - certified with FIPS 140-2 
+          Level 3, Common Criteria EAL4+ and NATO RESTRICTED, and is one of 
+          the most user friendly and cost effective encryption technologies 
+          available on the market today. Please visit our stand for demo of 
+          the latest product, [hiddn]™ Crypto Adapter; encryption of any USB 
+          storage media in one device!
+INTELIGENSA USA Inc. is a leading multinational organization in the 
+          design and implementation of identification, authentication and 
+          payment systems, its core business being the technological 
+          integration of solutions. The company operates in the USA, Latin 
+          America, Europe and Asia.
+INTELIGENSA USA Inc. is recognized for its discretion in managing 
+          its clients’ projects, for maintaining high security levels, and for 
+          innovative ideas that differentiate it from its competitors. 
+          INTELIGENSA USA Inc.'s greatest strengths are its professional 
+          development and support teams for project development and technical 
+          support of its authentication product line, which includes the 
+          Inteligensa Display Card.
+With 95,000 constituents in 160 countries, ISACA (www.isaca.org) is 
+          a global association that provides knowledge, certifications, 
+          community and education on information systems (IS) assurance and 
+          security, enterprise governance of IT, and IT-related risk and 
+          compliance. Founded in 1969, ISACA hosts international conferences, 
+          publishes the ISACA Journal, and develops international IS auditing 
+          and control standards. It also administers the globally respected 
+          Certified Information Systems Auditor (CISA), Certified Information 
+          Security Manager (CISM), Certified in the Governance of Enterprise 
+          IT (CGEIT) and Certified in Risk and Information Systems Control 
+          (CRISC) designations. ISACA continually updates COBIT, which helps 
+          IT professionals and enterprise leaders fulfill their IT governance 
+          responsibilities.
+Follow ISACA on Twitter at http://twitter.com/ISACANews.
+Ixia is a leading supplier of converged network and application 
+          performance testing solutions for network equipment manufacturers, 
+          service providers, enterprises, and government agencies. Ixia's test 
+          and simulation platforms use powerful, high performance technology 
+          to design and validate a multitude of IP and 3G/LTE networking 
+          equipment. Ixia’s solutions generate realistic, media-rich traffic 
+          to stress routers, switches, and converged network appliances. Its 
+          solutions can also validate the effectiveness of the latest network 
+          security appliances including firewalls, intrusion detection and 
+          prevention systems (IDS/IPS), anti-virus, anti-spam and URL filters, 
+          and VPN gateways - delivering continuous protection of networks and 
+          cloud data center infrastructure.
+KSI-A global leader in desktop and enterprise security solutions, 
+          will be demonstrating the new SonarLocID® keyboard. The SonarLocID® 
+          keyboard solves security risks and privacy concerns with unattended 
+          computers.
+The SonarLocID® keyboard uses state of the art integrated presence 
+          detection technology to identify that a user is physically present. 
+          The workstation will remain active as long as the user is present, 
+          but will securely lock when the user physically steps away, locking 
+          the workstation and securing sensitive information.
+The SonarLocID® keyboard easily attaches to the PC via a USB port 
+          and comes with a programming utility. Typical applications 
+          -HIPAA-pharmacy, healthcare, banking, government.
+Lieberman Software provides privileged identity management and 
+          security management solutions that protect the multi-platform 
+          enterprise. By automating time-intensive IT administration tasks, 
+          Lieberman Software increases control over the computing 
+          infrastructure, reduces security vulnerabilities, improves 
+          productivity and helps ensure regulatory compliance. As Pioneers of 
+          Privileged Identity Management, Lieberman Software not only 
+          developed the first software solution to address this need, its 
+          products continue to lead the market in features and functionality. 
+          The company is headquartered in Los Angeles, CA with an office in 
+          Austin, TX.
+Modulo is a leading global provider of Governance, Risk and 
+          Compliance (GRC) management solutions. Modulo's award-winning Risk 
+          Manager™ provides over 1,000 organizations with the onsite, SaaS, or 
+          cloud-based tools they need to automate the entire GRC process - to 
+          monitor, manage, and sustain adherence to policy and regulations 
+          while reducing costs, enterprise risk and complexity. Customers span 
+          the financial, health care, retail, telecom, power & gas and 
+          government sectors and include the prestigious BC Hydro, Synovus 
+          Financial and New York University Medical Center. Modulo's extensive 
+          network of partnerships includes IBM, Microsoft, Cisco, ISS, Qualys 
+          and Rapid 7 and it is a key contributor to many standards such as 
+          ISO, PCI SVA and Shared Assessments/Bits Initiative. Modulo is a 
+          2011 SC Magazine Excellence Award Finalist in Best Regulatory 
+          Compliance.
+Myricom is introducing Sniffer10G 2.0, 10GbE extreme-performance, 
+          cost-effective packet capture and injection software for DDoS and 
+          Cyber Security Monitoring for customers, and application and 
+          appliance vendors.
+Founded in 1994 as a Caltech spin-off, Myricom is the technology 
+          leader in extreme-performance 10-Gigabit Ethernet (10GbE) solutions 
+          specialized for vertical markets. Myricom pioneered High Performance 
+          Computing (HPC) interconnect technology that helped fuel the growth 
+          of cluster computing.
+With its fourth generation of networking products, Myri-10G, Myricom 
+          has achieved convergence between mainstream 10-Gigabit Ethernet and 
+          HPC technology. Myricom NICs and software power applications with 
+          demanding latency or throughput requirements.
+Netronome is a leading developer of highly programmable 
+          semiconductor products that are used for intelligent flow processing 
+          in network and communications devices. Netronome’s solutions include 
+          network flow processors and acceleration cards that scale from 10 to 
+          100 Gbps. They are used in carrier-grade and enterprise-class 
+          communications products that require deep packet inspection, flow 
+          analysis, content processing, virtualization and security. 
+          Netronome’s products are developed in labs in Santa Clara, CA, 
+          Boxborough, MA and Pittsburgh, PA. To learn more about Netronome and 
+          its products, please visit www.netronome.com.
+NetWitness® is a revolutionary network monitoring platform that 
+          provides enterprises a precise and actionable understanding of 
+          everything happening on the network. NetWitness solutions are 
+          deployed in customer environments to solve a wide range of tough 
+          information security problems including: insider threats, zero-day 
+          exploits and targeted malware, advanced persistent threats, fraud, 
+          espionage, data leakage, and continuous monitoring of security 
+          controls. NetWitness customers include enterprises across the Global 
+          1000 in sectors such as financial services, power and energy, 
+          telecommunications, retail, and high-tech, as well as government 
+          agencies around the world in defense, homeland security, law 
+          enforcement, and intelligence.
+NitroSecurity develops high-performance security information and 
+          event management (SIEM) solutions that protect critical information 
+          and infrastructure. NitroSecurity solutions reduce risk exposure and 
+          increase network and information availability by removing the 
+          scalability and performance limitations of security information 
+          management. Utilizing the industry’s fastest analytical tools, 
+          NitroSecurity identifies, correlates and remediates threats in 
+          minutes instead of hours, allowing organizations to quickly mitigate 
+          risks to their information and infrastructure. NitroSecurity serves 
+          more than 500 organizations in the energy, healthcare, education, 
+          financial services, government, retail, hospitality and managed 
+          services industries. For more information, please visit 
+          http://www.nitrosecurity.com.
+The Initiative for Open AuTHentication (OATH) is the industry’s 
+          leading collaboration of device, platform and application companies, 
+          and end user customers of authentication technologies. OATH 
+          participants foster use of strong authentication across networks, 
+          devices and applications. OATH participants work collectively to 
+          facilitate standards and build a reference architecture for open 
+          authentication while evangelizing the benefits of strong 
+          interoperable authentication in a networked world. As OATH grows, 
+          the organization actively incorporates feedback and technology 
+          contributions from end-user participants who share a common vision 
+          for open authentication technology and the products that provide 
+          this important measure of security.
+Quest Software helps solve the top IT management challenges 
+          organizations face across physical, virtual and cloud 
+          infrastructures. Quest serves over 100,000 customers around the 
+          globe by providing great solutions for identity and access 
+          management, performance monitoring, data protection, development, 
+          migration and IT administration.
+Security Mentor® provides innovative, web-based security awareness 
+          training designed for how people learn and work: Brief, Frequent, 
+          and Focused™. Ten-minute lessons easily fit busy schedules, and 
+          monthly training keeps security top of mind. Rich media, Flash-based 
+          lessons are as memorable as they are engaging and effective. And 
+          interactive content promotes learning by doing. Whether training is 
+          taken as a service from Security Mentor's website or as 
+          SCORM-compliant modules, lesson progress and completion is tracked 
+          and reported. See for yourself why Security Mentor's trainees say 
+          "great, loved it". Ask for a demo today at: 
+          http://www.securitymentor.com.
+Skybox Security delivers a complete portfolio of proactive security 
+          risk and compliance management solutions that act as an x-ray vision 
+          for IT networks. Skybox solutions automatically create a 
+          comprehensive view of the network environment, combining information 
+          about network topology, configuration settings, vulnerabilities, 
+          threats and important assets. With Skybox, IT security and 
+          operations personnel can quickly anticipate potential avenues of 
+          attack, ensure compliance, and verify secure configurations on 
+          thousands of devices.
+Solera Networks develops network forensics solutions that enable 
+          complete visibility into network traffic. The company improves 
+          network security, management, forensics and compliance capabilities 
+          by providing a complete historical record of all network activity 
+          through deep packet capture and stream-to-storage technology. This 
+          results in full visibility of all traffic crossing the network. 
+          Think of it as a DVR or surveillance for your network–but Solera 
+          Networks records every channel, every program, every application, 
+          every activity on the network all the time.
+Softex was founded in 1992, in Austin, Texas and is a leading 
+          provider of security software products and services. Softex serves 
+          many of the top tier OEMs, such as Lenovo, Samsung, IBM, Fujitsu, 
+          Hewlett-Packard, Motion Computing and hardware vendors such as APC, 
+          Synaptics, Ratoc, etc. Softex’s OmniPass is an Enterprise SSO and 
+          IAM solution that provides secure authentication and access to 
+          systems and applications. Softex's SecureDrive is a comprehensive 
+          data protection and encryption solution to manage and configure Self 
+          Encrypting Drives (SEDs).
+SPYRUS holds patents in the U.S. and abroad that enable solutions 
+          for secure authentication, secure communication, and full disk 
+          encryption, as well as patents relating to data protection and 
+          rights management for digital content. To prevent the insertion of 
+          untrusted components, Secured by SPYRUS™ security technology is 
+          proudly designed, engineered, and manufactured in the USA to meet 
+          FIPS 140-2 Level 3 standards. SPYRUS is headquartered in San Jose, 
+          California. See www.spyrus.com for more information.
+Stonesoft delivers proven, innovative solutions that simplify 
+            network security management for even the most complex network 
+            environments. The StoneGate Platform unifies management of entire 
+            networks—including StoneGate and third-party devices—blending 
+            integrated threat management, end-to-end high availability and 
+            network optimization into a centrally controlled system. As a 
+            result, Stonesoft provides the highest levels of proactive 
+            control, always-on connectivity and compliance at the lowest TCO 
+            on the market today. Founded in 1990, the company is an 
+            established leader in network security innovation with corporate 
+            headquarters in Helsinki, Finland and Americas headquarters in 
+            Atlanta, Georgia. For more information, visit www.stonesoft.com or 
+            www.antievasion.com.
+Thales e-Security is a leading global provider of data encryption 
+          solutions to the financial services, high technology manufacturing, 
+          government, and technology sectors. Security conscious organizations 
+          trust our data protection solutions. With a 40-year track record of 
+          protecting corporate and government information, Thales solutions 
+          are used by four of the five largest energy and aerospace companies, 
+          22 NATO countries, and secure more than 70 percent of worldwide 
+          payment transactions. Thales e-Security has offices in France, Hong 
+          Kong, Norway, United States and the United Kingdom
+TITUS is the leading provider of security and compliance software 
+          that helps organizations share information securely while meeting 
+          policy and compliance requirements. Our solutions enable military, 
+          government, and large enterprises to raise awareness and meet 
+          regulatory compliance by visually alerting end users to the 
+          sensitivity of information. Products include TITUS Classification, 
+          the leading message, document and file classification and labeling 
+          solutions; TITUS Aware, products that enhance DLP by detecting 
+          sensitive information at the desktop; and the TITUS family of 
+          classification and security solutions for Microsoft SharePoint. 
+          TITUS solutions are deployed to over 1.5 million users within our 
+          over 300 military, government and enterprise customers worldwide, 
+          including Dow Corning, United States Air Force, NATO, G4S, 
+          Paternoster, and Pratt and Whitney.
+Townsend Security, the encryption company, guarantees its NIST and 
+          FIPS 140-2 certified solutions will always meet or exceed the 
+          encryption and key management requirements in PCI, HIPAA/HITECH and 
+          other regulations. Built for compliance – strong encryption and key 
+          management secures data at the source, secure file transfers ensure 
+          data moves securely outside the organization, XML and web services 
+          help meet business requirements and real-time system logging 
+          provides essential reporting on access attempts to confidential data.
+Our combined experience and innovative solutions help customers 
+          world wide keep up with changing legislation, technology, and data 
+          management requirements.
+In an era of borderless enterprises, IT struggles to secure 
+            corporate content in a world of social media, mobile devices and 
+            cloud applications. Websense, Inc., a global leader in unified Web 
+            security, email security, and data loss prevention (DLP) 
+            solutions, delivers the best content security for modern threats 
+            at the lowest total cost of ownership to tens of thousands of 
+            organizations around the world. Distributed through a global 
+            network of channel partners and delivered as software, appliance 
+            and Security-as-a-Service (SaaS), Websense content security 
+            solutions help organizations leverage Web 2.0 and cloud 
+            communication, collaboration, and social media while protecting 
+            from advanced persistent threats, preventing the loss of 
+            confidential information and enforcing internet use and security 
+            policies.

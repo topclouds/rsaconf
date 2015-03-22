@@ -1,0 +1,548 @@
+Accellion, Inc. provides enterprise-class mobile file sharing 
+          solutions that enable secure anytime, anywhere access to information 
+          while ensuring enterprise security and compliance. The world’s 
+          leading corporations and government agencies use Accellion to 
+          protect intellectual property, ensure compliance, improve business 
+          productivity and reduce IT costs. Founded in 1999, Accellion file 
+          sharing solutions can be deployed on public, private and hybrid 
+          cloud environments and provide the ease-of-use business users need 
+          while giving the enterprise organization the flexibility, 
+          scalability and protection it needs. For more information please 
+          visit www.accellion.com or call (650)-485-4300. Follow Accellion’s 
+          Blog, Twitter, Facebook, and LinkedIn.
+AMAX is a leading computing solutions provider, developing full 
+          turnkey x86-based appliance manufacturing solutions for ISVs and 
+          OEMs. With over 30 years of advanced engineering expertise, our 
+          rigorous QA process, and ISO certification, AMAX can support your 
+          OEM project throughout the entire process from design prototyping, 
+          to full-volume manufacturing, inventory management, global 
+          logistics, and worldwide product support. AMAX is redefining 
+          software integration and deployment, giving our OEM customers a 
+          serious time-to-market advantage and the world-class flexibility and 
+          agility required to build and ship a fully custom-branded appliance 
+          solution anywhere in the world.
+AppSecInc is a pioneer and leading provider of database security 
+          software. By providing strategic and scalable software-only 
+          solutions – AppDetectivePro for auditors and IT advisors, and 
+          DbProtect for the enterprise – AppSecInc supports the database 
+          security lifecycle for some of the most complex and demanding 
+          environments in the world across more than 1,300 active commercial 
+          and government customers.
+Leveraging the world’s most comprehensive database security 
+          knowledgebase from the company’s renowned team of threat 
+          researchers, TeamSHATTER, AppSecInc products help customers achieve 
+          unprecedented levels of data security from nefarious or accidental 
+          activities, while reducing overall risk and helping to ensure 
+          continuous regulatory and industry compliance.
+Appthority – The Authority in App Security™ helps the enterprise 
+          identify and manage the risks hidden in mobile apps. The cloud-based 
+          Appthority Platform™ automatically identifies and grades risky 
+          behavior in mobile apps including known and unknown malware, new 
+          malware used in targeted attacks, corporate data exfiltration, and 
+          intellectual property exposure. The Appthority Platform integrates 
+          with the enterprise’s existing mobile solutions, adding app 
+          reputation and risk analysis capabilities to Enterprise Mobility 
+          Management (EMM), Mobile Device Management (MDM), Mobile App 
+          Management (MAM) Enterprise App Catalogs, and Enterprise Mobile App 
+          Developers’ Software Development Lifecycle (SDLC) process. For more 
+          information on Appthority please visit www.appthority.com.
+CA Technologies is an IT management and security software and 
+          solutions company with expertise across all IT environments – from 
+          mainframe and distributed, to virtual and cloud. CA Technologies IT 
+          security solutions are designed to improve security information 
+          management, minimize risk and improve regulatory compliance enabling 
+          innovation and business agility. The company does this with identity 
+          and access management technology that manages users, their access to 
+          information, and how they use the information. The majority of the 
+          Global Fortune 500 relies on CA Technologies to manage and secure 
+          evolving IT ecosystems.
+Headquartered in Waltham, Mass., CloudLock helps enterprises extend 
+          their data security to the cloud. CloudLock’s suite of security 
+          applications give businesses the controls and visibility they need 
+          to take advantage of the collaboration benefits of Google Apps 
+          without sacrificing security. The largest Google Apps customers in 
+          the world trust CloudLock to secure their data. For more information 
+          about the company, reseller opportunities or CloudLock, call (781) 
+          996-4332 or visit http://www.cloudlock.com.
+The Cloud Security Alliance is a not-for-profit organization with a 
+          mission to promote the use of best practices for providing security 
+          assurance within Cloud Computing, and to provide education on the 
+          uses of Cloud Computing to help secure all other forms of computing. 
+          The Cloud Security Alliance is led by a broad coalition of industry 
+          practitioners, corporations, associations and other key 
+          stakeholders. For further information, visit us at 
+          www.cloudsecurityalliance.org, and follow us on Twitter @cloudsa.
+Core Security is the leading provider of predictive security 
+          intelligence solutions for enterprises and government organizations. 
+          We help more than 1,400 customers worldwide preempt critical 
+          security threats throughout their IT environments, and communicate 
+          the risk the threats pose to the business. Our patented, proven, 
+          award-winning enterprise solutions are backed by more than 15 years 
+          of applied expertise from CoreLabs, the company’s innovative 
+          security research center. For more information, visit 
+          www.coresecurity.com.
+Coverity, the development testing leader, is the trusted standard 
+          for companies that need to protect their brands and bottom lines 
+          from software failures. More than 1,100 Coverity customers use 
+          Coverity's development testing suite of products to automatically 
+          test source code for software defects that could lead to product 
+          crashes, unexpected behavior, security breaches, or catastrophic 
+          failure. Coverity is a privately held company headquartered in San 
+          Francisco. Coverity is funded by Foundation Capital and Benchmark 
+          Capital. Follow us on Twitter at @Coverity.
+Cybera Inc. delivers all the network security services needed for 
+          remote businesses into a single cloud-based solution at a fixed 
+          annual cost. This includes the integration of 3G and 4G LTE access 
+          with managed Firewall, UTM, Wireless IDS, Virtual Private Network, 
+          security information and event management, and custom application 
+          gateways. The combination of Cybera’s proprietary security software 
+          delivered to remote locations via secure high-speed connections from 
+          the cloud has redefined security simplicity for businesses ranging 
+          from small retailers to large enterprises. Cybera eliminates the 
+          barriers preventing multi-site businesses from deploying the 
+          security infrastructure required to protect data and maintain 
+          compliance.
+Cyberoam offers comprehensive network security in over 110+ 
+          countries with its UTM appliances, logging and reporting solution 
+          and SSL VPN solution.
+Cyberoam UTM integrates Firewall, VPN, Gateway Anti-Virus and 
+          Anti-Spyware, Gateway Anti-Spam, IPS, Content Filtering, Bandwidth 
+          Management, Multiple Link Management and On-Appliance Reporting 
+          features on a single platform for comprehensive network security in 
+          small, medium and large enterprises.
+Cyberoam’s Layer 8 Technology allows security decisions based on 
+          Usernames and IP addresses for robust security. Its Extensible 
+          Security Architecture supports feature enhancements that can be 
+          developed rapidly and deployed with minimum efforts
+Encryptek Launches Patented Radium Product Line. Encryptek’s 
+          patented Radium product-line provides the world’s fastest RSA 
+          cryptographic acceleration. Encryptek merges mathematical theory and 
+          state of the art engineering to drive high performance cryptographic 
+          solutions for web servers, embedded systems, satellites, and more. 
+          Encryptek focuses on flexibility: IP optimizations can be selected 
+          for encryption strength, architecture, power, embedded, HPC, and 
+          more. Encryptek emphasizes scalable designs, leveraging highly 
+          parallel primitives, that can be applied on 1024, 2048, 4096-bit 
+          computations, and beyond. At a cost per transaction basis, the 
+          Encryptek products deliver value not seen in any competitor 
+          products. Visit online at www.encryptek.net
+F5 Networks (RSA Booth 2147) is the global leader in Application 
+          Delivery Networking (ADN), focused on ensuring the secure, reliable, 
+          and fast delivery of applications. F5's flexible architectural 
+          framework enables community-driven innovation that helps 
+          organizations enhance IT agility and dynamically deliver services 
+          that generate business value. F5's vision of unified application and 
+          data delivery offers customers an unprecedented level of choice in 
+          how they deploy ADN solutions. It redefines the management of 
+          application, server, storage, and network resources, streamlining 
+          application delivery and reducing costs. Global enterprise 
+          organizations, service and cloud providers trust F5 to keep their 
+          business moving forward.
+Faronics is a market leader in delivering solutions that help 
+          simplify security. Our award-winning software solutions provide 
+          layers of protection against today's sophisticated threats. Our 
+          solutions are easy to use and deliver total workstation reliability 
+          for IT professionals.
+FileOpen Systems is a leading provider of rights management 
+          solutions which enable large-scale distribution of secure documents 
+          to a wide range of standard viewers and devices. The company's 
+          RightsManager and RightServer products allow both small businesses 
+          and enterprise users the ability to protect their intellectual 
+          property and reduce the risk of confidential data loss, without 
+          compromising the end-user experience. Exhibiting at RSA this year, 
+          FileOpen Systems is pleased to announce their Mobile Viewer for 
+          Ipad, Iphone, and Android devices, as well as enhanced support for 
+          third-party PDF viewers.
+FireEye is the leader in stopping advanced targeted attacks that use 
+          advanced malware, zero-day exploits, and APT tactics. FireEye’s 
+          solutions supplement traditional and next-generation firewalls, IPS, 
+          antivirus and gateways, which cannot stop advanced threats, leaving 
+          security holes in networks. FireEye offers the industry’s only 
+          solution that detects and blocks attacks across both Web and Email 
+          threat vectors as well as latent malware resident on file shares. It 
+          addresses all stages of an attack lifecycle with a signature-less 
+          engine utilizing stateful attack analysis to detect zero-day 
+          threats. Based in Milpitas, California, FireEye is backed by premier 
+          financial partners including Sequoia Capital, Norwest Venture 
+          Partners and Juniper Networks.
+GFI® Software is showcasing a broad array of advanced malware 
+          analysis, integrated security and antivirus solutions. These include 
+          GFI SandBox™, which enables cyber-security professionals to test 
+          files and URLs for potential threats within a controlled 
+          environment; the GFI ThreatTrack™ automated feeds of the latest 
+          malicious files, URLs, IP addresses and other threats detected by 
+          GFI Labs; an entire suite of software development kits (SDKs) for 
+          ISVs and OEMs to integrate antivirus, patch management, 
+          vulnerability scanning and other security functionality into new and 
+          existing products; and GFI VIPRE® Antivirus Business, the company’s 
+          award-winning antivirus solution.
+Global Knowledge is the worldwide leader in IT and business skills 
+          training, with more than 1,200 courses that span foundational and 
+          specialized training and certifications. Our comprehensive 
+          curriculum of IT security courses includes the latest in 
+          cybersecurity skills-building and vendor-specific training from 
+          Cisco, Microsoft, Red Hat, Juniper, and EC-Council. Our expert 
+          instruction includes results-oriented certification training for 
+          Certified Ethical Hacker, CompTIA Security+, Check Point, CISA, 
+          CISSP, SELinux, and more. We deliver via training centers, private 
+          facilities, and the Internet, enabling our customers to choose when, 
+          where, and how they receive training programs and learning services. 
+          Learn more at www.globalknowledge.com.
+Information Security Ireland (ISI) promotes Irish information 
+          security companies worldwide by creating awareness of the country’s 
+          success record and capabilities in the field. At home, the 
+          organization drives interaction with technology firms, research 
+          institutes, academia and government.
+Founded in 2009, ISI serves as a networking body and a central force 
+          in Ireland's information security industry.
+ISI members offer solutions that include: application security, data 
+          security, endpoint and content security, governance risk and 
+          compliance, identity and access management, network security, 
+          security operations, and security and threat management.
+ISI members exhibiting at RSA 2012 include: Doan, PixAlert, Shenick, 
+          SpamTitan and VigiTrust.
+Integralis provides IT Security and Information Risk Management 
+          solutions on a global basis. We deliver a portfolio of managed 
+          security solutions, business infrastructure, consulting and 
+          technology integration services. As part of the NTT Communications 
+          Group, we help organizations lower IT costs and increase the depth 
+          of security protection, compliance and service availability. For 
+          more information, visit www.integralis.com.
+As a nonprofit, global membership association for IT and information 
+          systems professionals, ISACA® is committed to providing its diverse 
+          constituency of more than 95,000 worldwide with the tools they need 
+          to achieve individual and organizational success. ISACA offers 
+          research, certifications and community collaboration. ISACA sponsors 
+          international conferences, publishes the ISACA® Journal, develops 
+          industry-leading knowledge and practices for information systems and 
+          the COBIT® family of frameworks. ISACA administers the globally 
+          respected CISA®, CISM®, CGEIT® and CRISC™ designations. ISACA 
+          membership and certification programs are globally accepted and 
+          recognized as a highly respected resource for professional education 
+          and development.
+Keypasco offers a multi-factor, 2FA strong authentication for Cloud 
+          computing, online gaming, online betting, and Internet banking. The 
+          Keypasco ID solution provides a secure authentication solution for a 
+          service provider at an investment of <$0.5 per user per year.
+The Keypasco solution helps the user control and secure his online 
+          identity. Keypasco ties the username and password to a device (i.e. 
+          PC, notebook, smartphone, iPad etc.) and initiates a secuirty check 
+          with several additional factors to create a strong, multi-factor 
+          authentication solution.
+Keypasco’s ID solution: a Security-as-a-Service (SaaS) compliant 
+          with OpenID and a federal Single-Sign-On following OpenID and SAML 
+          standards.
+Klocwork® helps developers create more secure and reliable software. 
+          Our tools analyze source code on-the-fly, simplify peer code 
+          reviews, and extend the life of complex software. Over 950 
+          customers, including the biggest brands in the mobile device, 
+          consumer electronics, medical technologies, telecom, military and 
+          aerospace sectors, have made Klocwork part of their software 
+          development process. Thousands of software developers, architects, 
+          and development managers rely on our tools everyday to improve their 
+          productivity while creating better software.
+LogLogic develops scalable log and security intelligence platforms 
+          (LSIP) for the enterprise and cloud. As the originator of LSIP, 
+          LogLogic is the only provider to give enterprises the benefits of 
+          both Security Information and Event Management (SIEM) and Log 
+          Management in a single, highly scalable architecture. This 
+          architecture enables users to collect and analyze terabytes of big 
+          data generated by IT assets and gives security, IT operations, and 
+          compliance professionals actionable information, whether to identify 
+          and remedy security threats, optimize server and website 
+          performance, troubleshoot their network and security devices, or 
+          remain compliant with regulations.
+Protect your users and get more out of OWA with the endpoint 
+          security and productivity software that is trusted by F100 companies 
+          worldwide. Leaders in OWA solutions, Messageware secures Exchange, 
+          enhances, and customizes Outlook Web App. New: OWA_Guard protects 
+          from the latest threats. New: OWA_Desktop provides a full user 
+          experience for OWA, On-premise & Office 365. See for yourself why 
+          over 2,500 enterprises and 5 million users rely on Messageware to 
+          maximize their Exchange investment.
+NagraID Security (NIDS) is the leading EMV certified manufacturer of 
+          multifunction authentication credentials in a standard payment card 
+          form factor.
+NIDS display cards are the latest innovation in smartcards with an 
+          integrated LCD, an easy to use touch sensitive keypad and RFID 
+          interface that provides security, control and convenience. The 
+          powerful NIDS display card platform enables payment functionalities, 
+          physical access control, secure remote authentication, and on-card 
+          display of vital account related information in a single device. 
+          Supported by our global partner and solution provider network, we 
+          deliver the most innovative and finest integrated authentication 
+          solution.
+Napatech is the leading OEM supplier of 40 GbE, 10 GbE and 1 GbE 
+          intelligent adapters for real-time network analysis with over 80,000 
+          Ethernet ports deployed. Napatech network adapters provide real-time 
+          packet capture and transmission with full line-rate throughput and 
+          zero packet loss no matter the packet size. Intelligent features 
+          enable off-load of data traffic processing and packet analysis 
+          normally performed in the CPU. This results in more processing power 
+          for the network monitoring, analysis, management, test, measurement, 
+          security or optimization application being supported. Napatech has 
+          sales, marketing and R&D offices in Mountain View, California, 
+          Andover, Massachusetts, and Copenhagen, Denmark.
+Narus, Inc. is the leader in real-time network traffic intelligence 
+          and analytics.
+Through patented analytics, Narus’ carrier-class software detects 
+          patterns and anomalies that predict and identify security issues, 
+          misuse of network resources, suspicious or criminal activity, and 
+          other events that compromise IP network integrity. Its flagship 
+          NarusInsight provides deep visibility into traffic, identifying 
+          threats to networks, businesses and countries. Designed to be 
+          integrated into a customer’s operational environment, NarusInsight 
+          strengthens existing security and monitoring systems, providing 
+          incredible value in a cyber analytics solution. NarusInsight 
+          protects the largest IP networks around the world, including 
+          commercial and government installations on five continents.
+NEI is a leading provider of server-based application platforms and 
+          lifecycle support services for software developers and OEMs 
+          worldwide. Through its expertise and comprehensive suite of solution 
+          design, system integration, application management, global 
+          logistics, support, and maintenance services, NEI is redefining 
+          application deployment solutions to provide customers with a 
+          sustainable competitive advantage. More than a decade of appliance 
+          innovation with the ability to provide physical, virtual and 
+          cloud-ready solutions makes NEI one of the most trusted software 
+          deployment partners in the industry. Founded in 1997, NEI is 
+          headquartered in Canton, Massachusetts, with facilities in Plano, 
+          Texas and Galway, Ireland.
+NetIQ is an enterprise software company with relentless focus on 
+          customer success. Leveraging its WorkloadIQ approach, NetIQ helps 
+          customers cost-effectively tackle complex information protection 
+          challenges such as FISMA, FDCC/SCAP, PCI DSS, HIPAA, SOX and NERC 
+          CIP and securely deliver and manage computing services across 
+          physical, virtual and cloud computing environments. For information 
+          on how our solutions yield reduced cost, complexity and risk, 
+          contact us.
+Niometrics is an emerging leader in Network Intelligence. Its 
+          Application Recognition and Control System (ARCS) is a best-of-breed 
+          network visibility and control solution that provides 
+          high-performance network analysis, visualization and control. It 
+          offers broad application coverage of more than 5,500 applications, 
+          high detection rates often reaching 100%, and 10 Gb/s inspection 
+          throughput in pure software.
+Niometrics ARCS provides broad network trends as well as deep 
+          insights into individual application and user activity. 
+          Administrators are able to explore the network in a real-time 
+          dashboard that offers instant drill-down views and configuration of 
+          enforcement rules via a powerful and intuitive interface.
+OneLogin provides the fastest path to identity management in the 
+          cloud with an on-demand solution consisting of single sign-on, 
+          multi-factor authentication, directory integration, user 
+          provisioning and a catalog with thousands pre-integrated 
+          applications, including AtTask, Box.net, DocuSign, EchoSign, Google 
+          Apps, LotusLive, NetSuite, Salesforce.com, Successfactors, WebEx, 
+          Workday, Yammer, Zendesk and ZScaler. OneLogin, Inc. is backed by 
+          Charles River Ventures. Free Trial Available at: www.onelogin.com | 
+          Twitter: @onelogin.
+Pwnie Express is the creator of a first-to-market product that 
+          revolutionizes the CYBER SECURITY testing process (Penetration 
+          Testing). Our Pwn Plug product was designed to provide security 
+          professionals a cost effective method to conduct internal network 
+          security (penetration) testing remotely. Testing can now be 
+          conducted by simply sending this plug-and-play device to the remote 
+          location that is to be tested. This product provides a tremendous 
+          value proposition, saving travel and expense costs typically 
+          associated with deploying consultants. It also reduces the the level 
+          of involvement required by remote personnel and eliminates firewall 
+          administration requirements for remote internal penetration testing.
+Radiant Logic, Inc. is the market-leading provider of identity 
+          virtualization solutions. Since pioneering the first virtual 
+          directory, Radiant Logic has evolved its groundbreaking technology 
+          into a complete federated identity service, enabling Fortune 1000 
+          companies to solve their toughest identity management challenges.
+Using model-driven virtualization technology, the RadiantOne 
+          federated identity service builds customizable views from disparate 
+          data silos, streamlining authentication and authorization for 
+          identity management, context-driven applications, and cloud-based 
+          infrastructures.
+Organizations in a wide range of sectors rely on RadiantOne to 
+          deliver quick ROI by reducing administrative effort, simplifying 
+          integration tasks, and enabling future identity and data management 
+          initiatives.
+Research In Motion (RIM), a global leader in wireless innovation, 
+          revolutionized the mobile industry with the introduction of the 
+          BlackBerry(r) solution in 1999. BlackBerry Security is a world class 
+          organization working to make BlackBerry one of the most secure 
+          mobile platforms available by providing an end to end security focus 
+          including: driving the BlackBerry security message globally, 
+          acquiring and maintaining security accreditations, active 
+          involvement in the development of security products, uncovering 
+          threats through advanced research, building mitigations into 
+          BlackBerry products, and helping to protect customers by rapidly 
+          responding to security incidents as they occur. For more 
+          information, visit www.blackberry.com/security.
+Security Mentor® provides innovative, online security awareness 
+          training designed for how people learn and work: Brief, Frequent, 
+          and Focused™. Ten-minute lessons fit busy schedules and monthly 
+          training keeps security top of mind. Rich media, Flash-based lessons 
+          are as memorable as they are engaging and effective, and interactive 
+          content promotes learning by doing. Whether taken as a service from 
+          Security Mentor's website or provided as SCORM-compliant modules, 
+          lesson progress and completion is tracked and reported. See for 
+          yourself why Security Mentor's trainees say "It was not only 
+          informative, but fun! A rare combination!" Ask for a demo today at: 
+          www.securitymentor.com.
+Since 1999, Silicium Security has been delivering innovative 
+          enterprise security solutions to a global customer base that 
+          includes government, corporations and public institutions. We’re 
+          recognized for our unique approach in protecting strategic corporate 
+          information residing on Windows-based computer installations.
+Silicium's flagship product, ECAT, provides signature-less 
+          enterprise malware detection that other approaches miss. ECAT uses 
+          live memory analysis, network traffic statistical analysis and other 
+          techniques to provide ironclad compromise assessment and threat 
+          detection
+Sonatype ensures the integrity of the modern software supply chain. 
+          Sonatype's tools and information services improve visibility and 
+          control over component-based software development, enabling 
+          collaboration while reducing the risks associated with security and 
+          licensing and improving overall quality. Sonatype operates the 
+          Central Repository, the industry's primary source for open-source 
+          components and is a leader in such open-source projects as Nexus, 
+          Apache Maven, m2eclipse and Hudson. The company was founded by Jason 
+          van Zyl, the creator of Apache Maven and is privately held with 
+          investments from Accel Partners, Bay Partners, Hummer Winblad 
+          Venture Partners and Morgenthaler Ventures.
+The SparkWeave™ Secure Collaboration Suite of applications is hosted 
+          on the SparkWeave Private Cloud and delivers the gateway access to 
+          company data that end-users demand, in a secure/compliant manner. 
+          It's the ideal solution for businesses and enterprises that require 
+          complete control and visibility of the data entering and leaving 
+          their networks. The Collaboration Suite includes secure email, Large 
+          File Transfer, and File and Folder Synchronization.
+SparkWeave is a channel centric sales organization leveraging the 
+          expertise and relationships of the VAR channel. SparkWeave is priced 
+          competitively per application and inherently provides a platform to 
+          grow the application suite on.
+STEALTHbits Technologies, Inc. offers the industry’s most 
+          comprehensive IT management and compliance platform. Built from the 
+          ground up to collect, analyze, remediate, and report on data and 
+          systems critical to compliance success, STEALTHbits’ technology 
+          platform provides a single, unified framework for the management of 
+          Microsoft infrastructure and beyond, truly bridging the 
+          ever-widening gap between IT Management & Compliance groups within 
+          organizations large and small. Since 2001, STEALTHbits Technologies, 
+          Inc. has delivered powerful solution sets that address specific 
+          business problems across Active Directory, Exchange, Public Folders, 
+          SharePoint, Data and Access Governance, Systems Governance, and 
+          BlackBerry and ActiveSync.
+StrongAuth is a Silicon Valley-based enterprise key-management 
+          solutions company. Its innovative cryptographic solutions are used 
+          in mission-critical environments all over the world, to protect 
+          sensitive data.
+Its newest offering – the StrongKey CryptoEngine – a free and 
+          open-source web-service software library, encrypts files and objects 
+          of any type and size and, optionally, stores them in public clouds 
+          such as AWS/Azure or private clouds built using 
+          Eucalyptus/OpenStack. Cryptographic keys are maintained securely 
+          outside the cloud, in compliance with data-security regulations. The 
+          CryptoEngine is a component of the Regulatory Compliant Cloud 
+          Computing (RC3) web-application architecture for secure cloud 
+          computing.
+Symplified provides seamless identity and access management across 
+          cloud, web and mobile apps used by employees, partners and 
+          customers. The company protects more than 3.8 million identities for 
+          customers in the healthcare, financial services, manufacturing, and 
+          telecommunications industries. The Symplified service and its Trust 
+          Fabric® App Store unifies access management, federated single 
+          sign-on, auditing and user management across any access device. 
+          Symplified can be delivered securely either on-premises or across 
+          its unique Cloud Fabric® deployment platform via the Symplified 
+          Trust Cloud® which is hosted on the global, massively scalable 
+          Amazon Web Services infrastructure.
+Systematic Development Group, the makers of LOK-IT Secure Flash 
+          Drive® – the only FIPS 140-2 Level 3 secure drive with hardware 
+          authentication. At RSA, they’re announcing a new alliance with 
+          Becrypt Inc. to offer its Trusted Client operating system on the 
+          encrypted drive to allow the most secure remote connection to an 
+          organizations networks and data available today.
+Systematic Development Group is a privately owned company 
+          headquartered in Deerfield Beach, Fla. SDG specializes in 
+          development of portable security solutions for use within the 
+          education, government, healthcare, financial, consulting and legal 
+          market verticals. For more information, please visit www.LOK-IT.net.
+Every second, of every day, TeleSign protects the Internet and Cloud 
+          against fraud with Intelligent Authentication. TeleSign services 
+          provide an easy-to-implement and powerful method for identifying and 
+          substantially reducing online fraud and spam using the most widely 
+          deployed technology available worldwide — a user’s phone. TeleSign 
+          serves organizations of all sizes including some of the world’s 
+          largest and most prominent web businesses. The company has executed 
+          more than one billion authentication and verification transactions 
+          in more than 200 countries and 87 languages. In 2011, TeleSign 
+          ranked #15 on the Deloitte Technology Fast 500™ and was named 
+          Visionary in Gartner’s User Authentication Magic Quadrant.
+TITUS is the leading provider of security and compliance software 
+          that helps organizations share information securely while meeting 
+          policy and compliance requirements. Our solutions enable large 
+          enterprises, military and government to classify information and 
+          meet regulatory compliance by visually alerting end users to the 
+          sensitivity of information. Products include TITUS Classification - 
+          message, document and file classification and labeling solutions 
+          that enhance data loss prevention by involving end users in 
+          identifying sensitive information; and the TITUS family of 
+          classification and security solutions for Microsoft SharePoint. 
+          TITUS solutions are deployed to over 1.5 million users within our 
+          over 300 enterprise, military and government customers worldwide.
+Boston-based Trusteer is the leading provider of endpoint cybercrime 
+          prevention solutions that protect organizations against financial 
+          fraud and data breaches. Hundreds of organizations and millions of 
+          end users rely on Trusteer to protect their computers and mobile 
+          devices from online threats that are invisible to legacy security 
+          solutions. Trusteer’s Cybercrime Prevention Architecture combines 
+          multi-layer security software with real-time threat intelligence to 
+          achieve sustainable protection against malware and phishing attacks 
+          on web applications and meet regulatory compliance requirements. 
+          Leading organizations such as HSBC, Santander, The Royal Bank of 
+          Scotland, SunTrust and Fifth Third are among Trusteer’s clients. 
+          www.trusteer.com.
+Trustwave is a leading provider of on-demand and subscription-based 
+          information security and payment card industry compliance management 
+          solutions to businesses and government entities worldwide. For 
+          organizations faced with today's challenging data security and 
+          compliance environment, Trustwave provides a unique approach with 
+          comprehensive solutions that include its flagship TrustKeeper® 
+          compliance management software and other proprietary security 
+          solutions. Trustwave has helped hundreds of thousands of 
+          organizations-ranging from Fortune 500 businesses and large 
+          financial institutions to small and medium-sized retailers-manage 
+          compliance and secure their network infrastructures, data 
+          communications and critical information assets. Visit 
+          https://www.trustwave.com.
+Vormetric is the leader in enterprise system encryption. The 
+          Vormetric Data Security product line provides a single, manageable 
+          and scalable solution to manage any key and encrypt any file, any 
+          database, any application, anywhere it resides— without sacrificing 
+          application performance and avoiding key management complexity. Some 
+          of the largest and most security conscious organizations and 
+          government agencies in the world, including 15 of the Fortune 25, 
+          have standardized on Vormetric to provide strong, easily manageable 
+          data security. Vormetric technology has previously been selected by 
+          IBM as the database encryption solution for DB2 and Informix on 
+          LinuxTM, Unix® and Windows; and by Symantec to provide the Symantec 
+          Veritas NetBackupTM Media Server Encryption Option.
+Websense, Inc., a global leader in unified web security, email 
+          security, and data loss prevention (DLP) solutions, delivers the 
+          best content security for modern threats at the lowest total cost of 
+          ownership to tens of thousands of enterprise, mid-market and small 
+          organizations around the world. Distributed through a global network 
+          of channel partners and delivered as appliance-based software or 
+          SaaS-based cloud services, Websense content security solutions help 
+          organizations leverage social media and cloud-based communication, 
+          while protecting from advanced persistent threats and modern 
+          malware, preventing the loss of confidential information, and 
+          enforcing internet use and security policies. www.websense.com
+yaSSL, founded in 2004, is an open source internet security company 
+          who's primary products include the CyaSSL embedded SSL library and 
+          the yaSSL Embedded Web Server. Primary users are programmers 
+          building security functionality into their applications and devices. 
+          yaSSL employs the dual licensing model, like MySQL, offering 
+          products under the GPLv2 as well as a standard commercial license.
+yaSSL's products are designed to offer optimal performance, rapid 
+          integration, the ability to leverage hardware crypto, and support 
+          for the most current standards. All products are designed with clean 
+          APIs, and are backed by a dedicated and responsive support and 
+          development team.
