@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	f, err := os.Open("rsa2008exhibitors.html")
+	f, err := os.Open("rsa2016exhibitors.html")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -20,18 +20,18 @@ func main() {
 		log.Fatal(err)
 	}
 
-	doc.Find("td.bwcellpaddingleft0").Each(func(i int, s *goquery.Selection) {
-		span, ok := s.Attr("colspan")
-		if !ok || span != "2" {
-			return
-		}
-		desc := strings.TrimSpace(s.Text())
-		fmt.Printf("%s\n", desc)
-	})
-
-	// 2014, 2015
-	// doc.Find("td.description").Each(func(i int, s *goquery.Selection) {
+	// doc.Find("td.bwcellpaddingleft0").Each(func(i int, s *goquery.Selection) {
+	// 	span, ok := s.Attr("colspan")
+	// 	if !ok || span != "2" {
+	// 		return
+	// 	}
 	// 	desc := strings.TrimSpace(s.Text())
 	// 	fmt.Printf("%s\n", desc)
 	// })
+
+	// 2014, 2015, 2016
+	doc.Find("td.description").Each(func(i int, s *goquery.Selection) {
+		desc := strings.TrimSpace(s.Text())
+		fmt.Printf("%s\n", desc)
+	})
 }
